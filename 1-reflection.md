@@ -24,10 +24,3 @@ git log - get a log of all work recently done
 
 
 
-rm - to delete files or directory.
-ls -al - same as LS it make a list of all your files and directories but add -al it show even the hidden ones.
-mkdir - to create a new directory. Yes we can create a directory at the terminal too.
-git clone - to clone repository into my current directory.
-cd - to change the current directory to home.
-touch "file" - it will create a file in my current directory. ("file" create a name for this new file or use one that already exist and update it)
-cp - to copy a file to a different place.
